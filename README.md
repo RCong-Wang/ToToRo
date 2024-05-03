@@ -50,7 +50,7 @@ Draw4:可與Playerrole類別中創建的怪物進行互動Playerrole::randwalk()
 ![image](./Readme/win.png)
 此為遊戲勝利畫面~~(該圖存活時間僅供參考)
 [![Watch the video](./Readme/start.png)](https://youtu.be/OzUxlFSqeUE)
-
+實際遊玩畫面
 ### 專題關鍵
 道具-線的部分: 要讓他從發射的點開始消失，解決方式是利用vector將陣列中的第一個，每次迭代時都拿掉。
 地板的部分: 
